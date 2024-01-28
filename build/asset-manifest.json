@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae882459.css",
+    "main.js": "/static/js/main.e248507d.js",
+    "static/media/profile.png": "/static/media/profile.6122bdd8bff6d0481a8f.png",
+    "static/media/about.png": "/static/media/about.455d8364282f8ca92e16.png",
+    "static/media/testimonial1.jpg": "/static/media/testimonial1.aa4634a95ef85d228f31.jpg",
+    "static/media/testimonial2.jpg": "/static/media/testimonial2.7e4dbc24e4a5cb13f8f5.jpg",
+    "static/media/testimonial3.jpg": "/static/media/testimonial3.c9371fe386018cc704ec.jpg",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/John-Cv.pdf": "/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/index.html",
+    "main.ae882459.css.map": "/static/css/main.ae882459.css.map",
+    "main.e248507d.js.map": "/static/js/main.e248507d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae882459.css",
+    "static/js/main.e248507d.js"
+  ]
+}
